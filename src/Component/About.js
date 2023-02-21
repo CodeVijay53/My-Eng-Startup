@@ -16,7 +16,8 @@ export default function About() {
         Our services cater to your need at any and all stages of your 
         product development and manufacturing engineering processes. 
         We help commission factories, consult on engineering processes and infrastructure, 
-        engineer your technology, integrate electronic with mechanical, design products 
+        engineer your technology, integrate electronic with mechanical, design products
+        We Look to solve your problems
         "
         imgsrc={aboutimg}
       />
